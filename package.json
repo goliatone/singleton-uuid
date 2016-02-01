@@ -1,7 +1,7 @@
 {
   "name": "singleton-uuid",
   "description": "Create a UUID and store to file",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "homepage": "https://github.com/goliatone/singleton-uuid",
   "author": {
     "name": "goliatone",
@@ -22,7 +22,6 @@
     }
   ],
   "main": "index",
-  "bin": "bin/singleton-uuid",
   "engines": {
     "node": ">= 0.10.0"
   },
