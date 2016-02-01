@@ -2,7 +2,7 @@
   "name": "singleton-uuid",
   "description": "Create a UUID and store to file",
   "version": "0.1.0",
-  "homepage": "https://github.com/eburgos/singleton-uuid",
+  "homepage": "https://github.com/goliatone/singleton-uuid",
   "author": {
     "name": "goliatone",
     "email": "hello@goliatone.com",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eburgos/singleton-uuid.git"
+    "url": "git://github.com/goliatone/singleton-uuid.git"
   },
   "bugs": {
-    "url": "https://github.com/eburgos/singleton-uuid/issues"
+    "url": "https://github.com/goliatone/singleton-uuid/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/eburgos/singleton-uuid/blob/master/LICENSE-MIT"
+      "url": "https://github.com/goliatone/singleton-uuid/blob/master/LICENSE-MIT"
     }
   ],
   "main": "index",
